@@ -1,7 +1,7 @@
 # watering-app
 Track flowers watering days
 
-Link: https://vocal-torrone-08be1e.netlify.app/
+Link: https://sparkly-hummingbird-6ef86c.netlify.app
 
 Features:
 - Press the button to fetch and save the date and time right after watering
