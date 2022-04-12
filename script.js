@@ -7,7 +7,7 @@ let recommendedDate = document.querySelector('.recommendedDate');
 // time-related variables
 
 let currentDate = `${new Date().toLocaleDateString()} - ${new Date().toLocaleTimeString()}`;
-let nextDate = new Date(Date.now() + (3600 * 1000 * 48)).toLocaleDateString();
+let nextDate = new Date(Date.now() + (3600 * 1000 * 96)).toLocaleDateString();
 
 // button function
 
